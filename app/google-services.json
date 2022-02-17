@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500519848890",
+    "project_id": "vacation-manager-firebase",
+    "storage_bucket": "vacation-manager-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500519848890:android:d5fd897c7bc04c61b12b83",
+        "android_client_info": {
+          "package_name": "com.bootcamp.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500519848890-d6t56ddhdovmoc2htdv07meipnhi40o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtfyZP__QDm3jP-73mviYEzQyfnrbxMRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500519848890-d6t56ddhdovmoc2htdv07meipnhi40o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
