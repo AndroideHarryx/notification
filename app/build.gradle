@@ -43,6 +43,13 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation platform('com.google.firebase:firebase-bom:29.1.0')
+
+    // Declare the dependency for the Analytics library
     implementation 'com.google.firebase:firebase-analytics-ktx'
+
+    // Declare the dependency for the Cloud Messaging library
     implementation 'com.google.firebase:firebase-messaging-ktx'
+
+    // Declare the dependency for the Cloud Firestore library
+    implementation 'com.google.firebase:firebase-firestore-ktx'
 }
